@@ -2304,3 +2304,8 @@ footer p, footer a {
     font-weight: bold;
     display: block;
   }
+}
+
+#more{
+  display: none;
+}
