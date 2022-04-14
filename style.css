@@ -2338,8 +2338,8 @@ footer p, footer a {
 	position:fixed;
 	width:60px;
 	height:60px;
-	bottom:40px;
-	left:40px;
+	top:480px;
+  	right:40px;
 	background-color:#25d366;
 	color:#FFF;
 	border-radius:50px;
